@@ -1,2 +1,2 @@
 # Online-Judge
-Online Judge Accepted Solutions and Templates
+Code Library, Templates and Online Judge Accepted Solutions
